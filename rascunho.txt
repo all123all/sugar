@@ -1,0 +1,4 @@
+#C6D8F3 - cinza
+#3C95DC - azul
+#C61D64 - rosa
+#501346 - roxo
